@@ -9,7 +9,7 @@
   ],
   "type": "Monster",
   "attribute": "WIND",
-  "atk": 1800,
+  "atk": 800,
   "species": "Insect",
   "monster_type": "",
   "is_pendulum": false,

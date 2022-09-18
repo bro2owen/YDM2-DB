@@ -1,0 +1,21 @@
+{
+  "id": 00000000,
+  "name": "Test",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "test",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2000,
+  "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false
+}

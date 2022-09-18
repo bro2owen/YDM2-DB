@@ -5,17 +5,17 @@
   "is_custom": true,
   "text": "test",
   "images": [
-    ""
+    "https://storage.googleapis.com/ygoprodeck.com/pics/83994646.jpg"
   ],
   "type": "Monster",
-  "attribute": "LIGHT",
-  "atk": 2000,
-  "species": "Warrior",
+  "attribute": "EARTH",
+  "atk": 800,
+  "species": "Insect",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": 0,
-  "level": 4,
+  "def": 1200,
+  "level": 3,
   "is_tuner": false
 }
